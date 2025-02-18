@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+p, h3{
+    color: white;
+   
+}
+
+div{
+    padding: 10px;
+}
+
+button{
+    background-color: gray;
+    font-size: 20px;
+    padding: 12px 28px;
+    border-radius: 12px;
+    color: white;
+    transition-duration: 0.4s;
+    width: 200px;
+    
+}
+
+button:hover {
+    background-color: #349eeb; 
+
+}
+
+.post:hover {
+    filter: brightness(50%);
+}
+
+.tippy-top{
+    padding: 20px;
+    display:inline-block;
+}
+
+.main-info{
+    display:inline-block;
+    padding: 1rem 1rem;
+    vertical-align: top;
+}
+
+
+.post-num, .follwer-num, .follow-num{
+    display: inline-block;
+}
+
+.profile-pic{
+    border-radius: 360px;
+    border-style: solid;
+    border-color: #eb2a5a;
+    border-width: 5px;
+}

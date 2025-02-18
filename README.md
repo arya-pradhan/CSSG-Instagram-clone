@@ -1,2 +1,1 @@
-Testing
-testing
+This is my instagram-clone project for CSSG 
